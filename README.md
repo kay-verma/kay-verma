@@ -16,9 +16,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kayverma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kayverma" /></a></p>
-<br><br><br><br><br>
+<br><br><br>
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kay-verma&show_icons=true&locale=en" alt="kay-verma"/>
-</p><p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kay-verma&show_icons=true&locale=en" alt="kay-verma"/>
+</p><p>&nbsp;
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kay-verma&" alt="kay-verma" /></p>
 </div>
