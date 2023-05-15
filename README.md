@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Development Engineer</h3>
 <h5><ul><li>I work for LTIMindtree and looking for new opportunities.</li> <li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in JUnit/testing, Jenkins, and GitHub for DevOps</li></ul></h5>
 
 <p align="left"> <a href="https://twitter.com/antalitan" target="blank"><img src="https://img.shields.io/twitter/follow/antalitan?logo=twitter&style=for-the-badge" alt="antalitan" /></a> </p>
