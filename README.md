@@ -2,11 +2,11 @@
 <h3 align="center">   Software Development Engineer</h3>
 <h5><ul><li>I work for LTIMindtree and looking for new opportunities.</li> <li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in JUnit/testing, Jenkins, and GitHub for DevOps</li></ul></h5>
 
-<p align="left"> <a href="https://twitter.com/antalitan" target="blank"><img src="https://img.shields.io/twitter/follow/antalitan?logo=twitter&style=for-the-badge" alt="antalitan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kayvermaa" target="blank"><img src="https://img.shields.io/twitter/follow/antalitan?logo=twitter&style=for-the-badge" alt="antalitan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/antalitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antalitan" height="30" width="40" /></a>
+<a href="https://twitter.com/kayvermaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunal-verma-4b9108151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-verma-4b9108151" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kay.verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kay.verma" height="30" width="40" /></a>
 </p>
