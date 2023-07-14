@@ -1,6 +1,6 @@
 <h1 align="center">Hi  <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="32px" alt="👋"> , I'm Kunal</h1>
 <h3 align="center">   Software Development Engineer</h3>
-<h5><ul><li>I work for LTIMindtree and looking for new opportunities.</li> <li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in JUnit/testing, Jenkins, and GitHub for DevOps</li></ul></h5>
+<h5><ul><li>I work for LTIMindtree and looking for new opportunities.</li> <li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in Kafka and Distributed Systems</li></ul></h5>
 
 <p align="left"> <a href="https://twitter.com/kayvermaa" target="blank"><img src= "https://img.shields.io/twitter/follow/kunal?logo=twitter&style=for-the-badge" alt="antalitan" /></a> </p>
 
