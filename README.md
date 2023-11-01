@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="32px" alt="👋"> , I'm Kunal</h1>
+<h1 align="center">Hi <img src = "https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif"/>, I'm Kunal</h1>
 <h3 align="center">   Software Engineer</h3>
 <h5><ul><li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in Kafka and Distributed Systems</li></ul></h5>
 
