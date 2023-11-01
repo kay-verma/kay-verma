@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kunal! 👋</h1>
+## <center> Hello, I'm Kunal! 👋 </center>
 <h3 align="center">   Software Engineer</h3>
 <h5><ul><li>I have built Microservices with Serverless technology/AKS, in Java, SQL.</li><li>Strong expertise in Java, Spring Boot, and AWS, with a focus on delivering successful projects.</li><li>Proficient in Kafka and Distributed Systems</li></ul></h5>
 
